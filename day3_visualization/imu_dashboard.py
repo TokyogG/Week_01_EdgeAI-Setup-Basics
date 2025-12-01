@@ -11,7 +11,7 @@ st.write("Visualizing real accelerometer, gyroscope, and temperature data from t
 
 # ---------- Data selection ----------
 # Directory where parquet files are stored (explicit path on the Pi)
-DATA_DIR = Path.home() / "Week_01_Edge-Setup-Basics" / "day2_gpio_mpu"
+DATA_DIR = Path.home() / "EdgeAI_Bootcamp" / "Week_01_EdgeAI-Setup-Basics" / "day2_gpio_mpu"
 
 st.sidebar.header("Data Source")
 st.sidebar.write(f"Looking for .parquet files in:\n`{DATA_DIR}`")

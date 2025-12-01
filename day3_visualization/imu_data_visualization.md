@@ -69,7 +69,7 @@ This is the part where students commonly get confused, so we spell it out clearl
 SSH into your Pi:
 
 ```bash
-cd ~/edge-setup-basics/day3_visualization
+cd ~EdgeAI_Bootcamp/edge-setup-basics/day3_visualization
 streamlit run imu_dashboard.py
 ```
 

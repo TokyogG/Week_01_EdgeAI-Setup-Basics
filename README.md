@@ -117,7 +117,7 @@ A full GUI dashboard:
 Launch:
 
 ```bash
-cd ~/edge-setup-basics/day3_visualization
+cd ~/Week_01_EdgeAI-Setup-Basics/day3_visualization
 streamlit run imu_dashboard.py
 ```
 
